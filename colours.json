@@ -1,0 +1,28 @@
+{
+  "colours": [
+    {
+      "name": "hex",
+      "value": "#FF11CC"
+    },
+    {
+    	"name": "floatC",
+    	"value" : "0.5,0.6,0.7"
+    },
+    {
+    	"name" : "decimal",
+    	"value" : "255,255,255"
+    },
+    {
+      "name": "hexAlpha",
+      "value": "#ddeeBB00"
+    },
+    {
+    	"name": "floatAlpha",
+    	"value" : "0.1,0.2,0.3,0.4"
+    },
+    {
+    	"name" : "decimalAlpha",
+    	"value" : "255,47,34,23"
+    }
+  ]
+}
