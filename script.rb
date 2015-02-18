@@ -131,7 +131,7 @@ converted.each do |val|
 	sourceString << "\treturn c;"
 	sourceString << "\n}\n\n"
 
-	xmlString << "<color name=\"#{val["name"]}\">#{val["val"]["html"]}</color>\n"
+	xmlString << "\t<color name=\"#{val["name"]}\">#{val["val"]["html"]}</color>\n"
 end	
 
 headerTemplate = File.read(headerTemplateFileName)
