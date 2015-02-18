@@ -5,7 +5,7 @@
 //
 
 
-#import "UIColor+AppColours.h"
+#import "Colours.h"
 
 @implementation UIColor (AppColours)
 
